@@ -7,7 +7,7 @@
 ## **Overview**
 This project explores the transformative impact of AI in agriculture, providing farmers with tools to combat challenges like climate change, resource management, and market accessibility. By leveraging AI-powered mobile apps, individual farmers can improve yields, conserve resources, and maximize profits.
 
-![Weather Forecasting App Interface](Images/Initial-page.png)
+![Krsi App](Images/Initial-page.png)
 
 ---
 
@@ -16,6 +16,8 @@ This project explores the transformative impact of AI in agriculture, providing 
    - AI-based hyper-localized weather forecasts.
    - Alerts for extreme weather events.
    - Risk mitigation recommendations.
+
+![Weather Forecasting App Interface](images/weather_forecasting.jpg)
 
 2. **Smart Irrigation and Water Management**
    - Real-time soil moisture monitoring and optimized water usage.
@@ -65,11 +67,15 @@ The implementation of AI in the agriculture sector helps farmers:
 - Integrate IoT-based sensors for real-time field monitoring.
 - Develop multilingual interfaces for inclusivity.
 
+## **Prototype**
+
+- [Krsi app prototype](https://www.figma.com/proto/bIQbgug5MoaNxxYdubFEFP/Untitled?node-id=3-3&node-type=canvas&t=9xcG4tUaLpS1scZz-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A3)
+
 ---
 
 ## **Contact**
 For insights or collaboration, feel free to reach out:
-📧 **[Your Email]**
-🌐 **[Your LinkedIn Profile]**
+📧 **[dhakshina2005@gmail.com]**
+🌐 **[https://www.linkedin.com/in/dhakshina-sri/]**
 
 ---
